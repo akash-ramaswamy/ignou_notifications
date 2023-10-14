@@ -1,16 +1,16 @@
-# ignou_notifications
+# IGNOU Notifications
 
-A new Flutter project.
+A Flutter application to notify IGNOU notifications with a minimal UI. The usual [notification screen](http://ignou.ac.in/ignou/bulletinboard/announcements/latest/1) is a boring view and not user-friendly!
 
-## Getting Started
+<img src="readme_images/image.png" alt="IGNOU Website screenshot" width="500"/>
 
-This project is a starting point for a Flutter application.
+This application makes that look like below, and much more features have been planned for development!
 
-A few resources to get you started if this is your first Flutter project:
+<img src="readme_images/IMG_9237.jpeg" alt="IGNOU Website screenshot" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Other features under development:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Notification for new announcements
+2. View and read the announcements in the app itself
+3. View Monthly announcements grouped
+4. Search the list
